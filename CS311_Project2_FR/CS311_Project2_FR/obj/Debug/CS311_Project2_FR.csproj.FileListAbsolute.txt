@@ -1,0 +1,6 @@
+C:\Users\Felix\source\repos\CS311_Project2_FR\CS311_Project2_FR\obj\Debug\CS311_Project2_FR.csproj.AssemblyReference.cache
+C:\Users\Felix\source\repos\CS311_Project2_FR\CS311_Project2_FR\obj\Debug\CrapsGame.MainForm.resources
+C:\Users\Felix\source\repos\CS311_Project2_FR\CS311_Project2_FR\obj\Debug\CS311_Project2_FR.Properties.Resources.resources
+C:\Users\Felix\source\repos\CS311_Project2_FR\CS311_Project2_FR\obj\Debug\CS311_Project2_FR.csproj.GenerateResource.cache
+C:\Users\Felix\source\repos\CS311_Project2_FR\CS311_Project2_FR\obj\Debug\CS311_Project2_FR.csproj.CoreCompileInputs.cache
+C:\Users\Felix\source\repos\CS311_Project2_FR\CS311_Project2_FR\obj\Debug\CS311_Project2_FR.MainForm.resources
