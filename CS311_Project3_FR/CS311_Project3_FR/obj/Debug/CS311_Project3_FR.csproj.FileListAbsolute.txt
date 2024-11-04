@@ -1,0 +1,10 @@
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\bin\Debug\CS311_Project3_FR.exe.config
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\bin\Debug\CS311_Project3_FR.exe
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\bin\Debug\CS311_Project3_FR.pdb
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\obj\Debug\CS311_Project3_FR.csproj.AssemblyReference.cache
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\obj\Debug\CS311_Project3_FR.Form1.resources
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\obj\Debug\CS311_Project3_FR.Properties.Resources.resources
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\obj\Debug\CS311_Project3_FR.csproj.GenerateResource.cache
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\obj\Debug\CS311_Project3_FR.csproj.CoreCompileInputs.cache
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\obj\Debug\CS311_Project3_FR.exe
+C:\Users\Felix\source\repos\CS311_Project3_FR\CS311_Project3_FR\obj\Debug\CS311_Project3_FR.pdb
